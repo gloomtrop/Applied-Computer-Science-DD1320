@@ -1,0 +1,72 @@
+Uppgift:
+        Din uppgift är att göra en jämförelse mellan två olika sätt att 
+        generera slumptal med avseende på tre relevanta aspekter.
+
+Algoritm 1: Linear Congruential Generator
+Algoritm 2: Xorshift
+
+Rapport
+
+Du ska skriva en rapport (max tre sidor + appendix) där du redogör för dina resultat 
+och hur du kom fram till dom. Använd tabeller/figurer när du presenterar dina resultat.
+
+    1. Överst i rapporten: skriv
+        ditt namn och din epost (@kth.se),
+        din födelsemånad och födelsedag = 
+        vilka slumpalgoritmer du jämför
+    2. Skriv din rapport, spara som pdf, och lämna in här i Canvas.
+    3. Fixa ev påpekanden du får av läraren.
+    4. När du fått klartecken på din inlämning är det dags att boka tid för muntlig redovisning på vanliga bokningssidan.
+
+
+PREL.ASPEKTER
+1. Effektivitet
+2. Periodicitet
+3. Uniformitet
+
+UPD. ASPEKTER
+1. Test for Distribution
+2. Test for Independance
+
+TESTER
+
+    Frequency Test: Monobit
+    Frequency Test: Block
+    Runs Test
+    Test for the Longest Runs of Ones in a Block
+    Binary Matrix Rank Test
+    Discrete Fourier Transform (Spectral Test)
+    Non-Overlapping Template Matching Test
+    Overlapping Template Matching Test
+    Maurer's Universal Statistical Test
+    Linear Complexity Test
+    Serial Test
+    Approximate Entropy Test
+    Cumulative Sums Test
+    Random Excursions Test
+    Random Excursions Variant Test
+
+
+    A chi-square test
+    A test of runs above and below the median
+    A reverse arrangements test
+    An overlapping sums test
+    A binary rank test for 32×32 matrices
+
+    Kolmogorov-Smirnov Test
+    Bucket Test (~chi-test)
+    Variance Test
+    Mean Test
+
+PYTON links
+https://www.pythonforthelab.com/blog/introduction-to-storing-data-in-files/
+
+GITHUB CODE
+Spectral Test: https://gist.github.com/StuartGordonReid/54845bf66de7e195b335
+
+UPPLÄGG
+
+Xorshift beräkning
+
+Linear Congruential Generator beräkning
+

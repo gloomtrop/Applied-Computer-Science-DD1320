@@ -1,0 +1,1 @@
+För uint8 krävs det att m flr lcg är 2^7
